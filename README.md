@@ -2,7 +2,7 @@
 
 ‣ **OBJECTIVE**
 
-The main objective of our project is to design a model which can automatically classify the road signs so as to assist the user or the machine in taking appropriate actions. Our approach consists of building a model using Convolutional Neural Networks(CNN) by extracting traffic signs from an image using various filters
+The main objective of our project is to design a model which can automatically classify the road signs so as to assist the user or the machine in taking appropriate actions. Our approach consists of building a model using Convolutional Neural Networks(CNN) by extracting traffic signs from an image using various filters.
 
 ‣ **ABSTRACT**
 
