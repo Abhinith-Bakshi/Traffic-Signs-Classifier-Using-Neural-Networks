@@ -18,3 +18,7 @@ Once the desired model is built, we then train the data with our training datase
 
 Then we tested our model with test dataset and the accuracy we obtained was 95%.
 We have also built a GUI in which we have used the saved model (.h5 file) to classify the images that were uploaded into the interface.
+
+‣ **ABOUT THE DATASET**
+
+The German Traffic Sign Recognition Benchmark (GTSRB) contains 43 classes of traffic signs, split into 39,209 training images and 12,630 test images. The images have varying light conditions and rich backgrounds. The dataset is quite varying,  some of the classes have many images while some classes have few images.
