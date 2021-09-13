@@ -7,4 +7,4 @@ We have focused our project on the German traffic signs. We used the GTSRB traff
 
 ‣ **Objective**
 
-Here, we have built a deep neural network model that can classify traffic signs present in an image into different categories (43 categories). With this model, we were able to read and understand traffic signs which are a very important task for all autonomous vehicles
+To build a deep neural network model that can classify traffic signs present in an image into different categories (43 categories). With this model, we were able to read and understand traffic signs which are a very important task for all autonomous vehicles
