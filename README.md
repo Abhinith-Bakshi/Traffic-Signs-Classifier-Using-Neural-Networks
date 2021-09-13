@@ -22,3 +22,5 @@ We have also built a GUI in which we have used the saved model (.h5 file) to cla
 ‣ **ABOUT THE DATASET**
 
 The German Traffic Sign Recognition Benchmark (GTSRB) contains 43 classes of traffic signs, split into 39,209 training images and 12,630 test images. The images have varying light conditions and rich backgrounds. The dataset is quite varying,  some of the classes have many images while some classes have few images.
+
+Find the dataset here --> https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
